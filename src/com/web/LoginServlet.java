@@ -29,6 +29,7 @@ public class LoginServlet extends HttpServlet {
         //通过req请求对象获取session会话对象
         HttpSession session = req.getSession();
         session.setAttribute("username",username);
+        session.setAttribute("password",password);
         resp.sendRedirect("/index.jsp");
     }
 }

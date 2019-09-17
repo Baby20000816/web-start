@@ -7,8 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cf55231-0a4a-4431-9d8c-052ec4d7e304" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jhwu_war_exploded/WEB-INF/classes/com/web/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/jhwu_war_exploded/WEB-INF/classes/com/web/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jhwu_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/jhwu_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/jhwu/com/web/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/jhwu/com/web/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/web/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/web/LoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +84,6 @@
       </deployment>
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_24_jhwu" />
-        <option name="JNDI_PORT" value="1080" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -155,8 +158,17 @@
       <updated>1568704402860</updated>
       <workItem from="1568704404454" duration="5083000" />
       <workItem from="1568709537477" duration="128000" />
-      <workItem from="1568709700922" duration="531000" />
+      <workItem from="1568709700922" duration="2754000" />
+      <workItem from="1568723994381" duration="620000" />
     </task>
+    <task id="LOCAL-00001" summary="web起步项目的提交">
+      <created>1568710313067</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568710313067</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,10 +179,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="web起步项目的提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="web起步项目的提交" />
   </component>
 </project>
